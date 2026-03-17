@@ -19,7 +19,7 @@ A kiosk-style web application designed for **New Era University** to manage and 
 * **Patron Management:** Manage a dedicated Blocked List to restore access when needed.
 * **PDF Reports:** Generate and download professional attendance reports using the FPDF library.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Frontend:** HTML5, CSS3 (Flexbox/Grid), JavaScript
 * **Backend:** PHP
 * **Database:** MySQL
@@ -27,6 +27,6 @@ A kiosk-style web application designed for **New Era University** to manage and 
 
 | Visitor Entry | Admin Dashboard | Purpose Selection |
 
-## 🔒 Default Admin Credentials
+## Default Admin Credentials
 * **Username:** `admin`
 * **Password:** `p@ssword`
