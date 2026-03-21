@@ -30,3 +30,4 @@ A kiosk-style web application designed for **New Era University** to manage and 
 ## Default Admin Credentials
 * **Username:** `admin`
 * **Password:** `p@ssword`
+* **Use Institutional Email to login admin
